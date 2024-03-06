@@ -126,7 +126,7 @@ echo '
 ██║░░██║██║░░██║██║╚████║██╔══╝░░
 ██████╔╝╚█████╔╝██║░╚███║███████╗
 ╚═════╝░░╚════╝░╚═╝░░╚══╝╚══════╝
-Developer : mishakorzhik
+Developer : TheMrX1 (X_tent_X)
 created on: 23 05 2021
 code      : python, bash, php
 '|lolcat -p 1.0
