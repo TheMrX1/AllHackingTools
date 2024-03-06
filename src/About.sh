@@ -8,9 +8,9 @@ echo '
     │ >>   Hi, here you can see my telegram and github there       |
     |       will be questions you will write in telegram.          │
     │                                                              │
-    │ >>  Author   :  Misha Korzhik                                │
-    │     Github   :  https://github.com/mishakorzik               │
-    │     Telegram :  pseudonym @MishaKorzhikTelegram              │
+    │ >>  Author   :  TheMrX1 (X_tent_X)                           │
+    │     Github   :  https://github.com/TheMrX1                   │
+    │                                                              │
     |     Info     :  Trank for installing AllHackingTools         |
     │                                                              │
     └──────────────────────────────────────────────────────────────┘ 
